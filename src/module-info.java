@@ -1,0 +1,2 @@
+module Macera_Oyunu {
+}
